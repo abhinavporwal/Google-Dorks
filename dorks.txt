@@ -1,0 +1,14 @@
+inurl:wp-content/plugins/woocommerce
+index of /wp-content/uploads/backupbuddy
+inurl:index.shtml
+"powered by Typo3"
+inurl:wp-content/plugins/ajax-load-more/lang/
+inurl:resetpassword.do
+intitle:"index of" "security.php"
+intitle:index of config.asp
+inurl:login.do?method=login
+inurl:userlogin.do
+inurl:"resetpassword.jsf"
+inurl:"passwordreset.php"
+inurl:"resetpassword.asp"
+inurl:resetpassword.aspx
