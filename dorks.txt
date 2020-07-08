@@ -12,3 +12,4 @@ inurl:"resetpassword.jsf"
 inurl:"passwordreset.php"
 inurl:"resetpassword.asp"
 inurl:resetpassword.aspx
+inurl:wp-content/themes/sparky
